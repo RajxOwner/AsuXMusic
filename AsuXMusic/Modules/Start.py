@@ -81,7 +81,7 @@ async def gstart(_, message: Message):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/TEAM-ABG/AsuXMusic"
+                    text="𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 ", url="https://t.me/HawkProBots"
                 ),
             ],
         ]
